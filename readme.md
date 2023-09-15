@@ -1,4 +1,4 @@
-i have never really understand how `<c-w>x` works, this is how i think it should be.
+i have never really understood how `<c-w>x` works, this is what i think it should be.
 
 ## features/limits
 * winnr should be in `1-9`
